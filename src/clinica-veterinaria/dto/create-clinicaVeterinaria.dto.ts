@@ -5,7 +5,7 @@ export class CreateClinicaVeterinariaDto {
     color: string;
     fecha_nacimiento: string;
     peso_kg: number;
-    nombre_duen: string;
+    nombre_dueno: string;
     telefono_dueno: string;
     email_dueno: string;
     estado: string;

@@ -18,7 +18,7 @@ export class ClinicaVeterinaria {
   color: string;
 
   @Column()
-  fecha_nacimineto: string;
+  fecha_nacimiento: string;
 
   @Column()
   peso_kg: number;
